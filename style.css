@@ -1,0 +1,11 @@
+@media (min-width: 960px) {
+  #navbar {
+    position: fixed;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+  }
+  main {
+    margin-left: 200px;
+  }
+}
